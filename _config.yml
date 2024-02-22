@@ -1,26 +1,26 @@
 # Site
-name: John Doe
-description: Just another website
-meta_description: Just another website
+name: Charles Stephen Thompson
+description: The HandyHomo
+meta_description: My Personal Site
 logo: /assets/images/logo.png
 favicon: /assets/images/favicon.ico
 paginate: 6
-baseurl:
-email: 'hello@john.doe'
+baseurl: /
+email: 'hello@c@handyhomo.com'
 google_analytics: UA-103662447-9
 disqus:
 sharethis:
 
 # Authors
 authors:
-  john:
-    name: john
-    display_name: John Doe
+  Charles:
+    name: Charles
+    display_name: Charles Stephen Thompson, The HandyHomo
     image: /assets/images/john.jpg
-    email: hello@john.doe
-    web: http://example.com
+    email: hello@handyhomo.com
+    web: http://cst.wtf
     twitter:
-    description: Hi, I am John Doe.
+    description: Hi, I'm the HandyHomo.
 
 # Plugins
 plugins:
@@ -44,18 +44,18 @@ highlighter: rouge
 
 # SEO
 twitter:
-  username: john
+  username: handyhomo
   card: summary
 
 facebook:
   app_id:
-  publisher: john.com
+  publisher: charlestephen
   admins:
 
 social:
 name: John Doe
 links:
-    - https://twitter.com/
-    - https://www.facebook.com/
-    - https://www.linkedin.com/
-    - https://github.com/
+    - https://twitter.com/handyhomo
+    - https://www.facebook.com/charlestephen
+    - https://www.linkedin.com/mrcharlestephen
+    - https://github.com/charlestephen
